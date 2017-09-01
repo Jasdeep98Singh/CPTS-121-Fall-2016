@@ -1,0 +1,18 @@
+﻿  equations.c
+f:\cpts 121\pa8 - copy\pa8\equations.c(19): warning C4013: 'system' undefined; assuming extern returning int
+f:\cpts 121\pa8 - copy\pa8\equations.c(8): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char (*)[30]'
+f:\cpts 121\pa8 - copy\pa8\equations.c(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+f:\cpts 121\pa8 - copy\pa8\equations.c(26): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+f:\cpts 121\pa8 - copy\pa8\equations.c(32): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+f:\cpts 121\pa8 - copy\pa8\equations.c(38): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+f:\cpts 121\pa8 - copy\pa8\equations.c(45): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+f:\cpts 121\pa8 - copy\pa8\equations.c(70): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  main.c
+  PA8.vcxproj -> F:\Cpts 121\PA8 - Copy\Debug\PA8.exe
+  PA8.vcxproj -> F:\Cpts 121\PA8 - Copy\Debug\PA8.pdb (Full PDB)
