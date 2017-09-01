@@ -1,0 +1,60 @@
+﻿  mathprg.c
+f:\cpts 121\pa.7 - copy\pa.7\mathprg.c(67): warning C4129: 'W': unrecognized character escape sequence
+f:\cpts 121\pa.7 - copy\pa.7\mathprg.c(69): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+f:\cpts 121\pa.7 - copy\pa.7\mathprg.c(83): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+f:\cpts 121\pa.7 - copy\pa.7\mathprg.c(128): warning C4129: 'W': unrecognized character escape sequence
+f:\cpts 121\pa.7 - copy\pa.7\mathprg.c(130): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+f:\cpts 121\pa.7 - copy\pa.7\mathprg.c(144): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+f:\cpts 121\pa.7 - copy\pa.7\mathprg.c(190): warning C4129: 'W': unrecognized character escape sequence
+f:\cpts 121\pa.7 - copy\pa.7\mathprg.c(192): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+f:\cpts 121\pa.7 - copy\pa.7\mathprg.c(207): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+f:\cpts 121\pa.7 - copy\pa.7\mathprg.c(252): warning C4129: 'W': unrecognized character escape sequence
+f:\cpts 121\pa.7 - copy\pa.7\mathprg.c(254): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+f:\cpts 121\pa.7 - copy\pa.7\mathprg.c(268): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+f:\cpts 121\pa.7 - copy\pa.7\mathprg.c(312): warning C4129: 'W': unrecognized character escape sequence
+f:\cpts 121\pa.7 - copy\pa.7\mathprg.c(316): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+f:\cpts 121\pa.7 - copy\pa.7\mathprg.c(331): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+f:\cpts 121\pa.7 - copy\pa.7\mathprg.c(377): warning C4129: 'W': unrecognized character escape sequence
+f:\cpts 121\pa.7 - copy\pa.7\mathprg.c(379): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+f:\cpts 121\pa.7 - copy\pa.7\mathprg.c(397): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+f:\cpts 121\pa.7 - copy\pa.7\mathprg.c(444): warning C4129: 'W': unrecognized character escape sequence
+f:\cpts 121\pa.7 - copy\pa.7\mathprg.c(446): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+f:\cpts 121\pa.7 - copy\pa.7\mathprg.c(463): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+f:\cpts 121\pa.7 - copy\pa.7\mathprg.c(505): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+f:\cpts 121\pa.7 - copy\pa.7\mathprg.c(508): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+f:\cpts 121\pa.7 - copy\pa.7\mathprg.c(509): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+f:\cpts 121\pa.7 - copy\pa.7\mathprg.c(510): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  main.c
+f:\cpts 121\pa.7 - copy\pa.7\main.c(34): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+f:\cpts 121\pa.7 - copy\pa.7\main.c(43): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  Generating Code...
+f:\cpts 121\pa.7 - copy\pa.7\mathprg.c(231): warning C4715: 'threeaddition_rec': not all control paths return a value
+f:\cpts 121\pa.7 - copy\pa.7\mathprg.c(107): warning C4715: 'addition_rec': not all control paths return a value
+f:\cpts 121\pa.7 - copy\pa.7\mathprg.c(291): warning C4715: 'multiply_rec': not all control paths return a value
+f:\cpts 121\pa.7 - copy\pa.7\mathprg.c(168): warning C4715: 'subtraction_rec': not all control paths return a value
+f:\cpts 121\pa.7 - copy\pa.7\mathprg.c(422): warning C4715: 'levelfour_rec': not all control paths return a value
+f:\cpts 121\pa.7 - copy\pa.7\mathprg.c(488): warning C4715: 'levelfive_rec': not all control paths return a value
+f:\cpts 121\pa.7 - copy\pa.7\mathprg.c(356): warning C4715: 'division_rec': not all control paths return a value
+  LINK : F:\Cpts 121\Pa.7 - Copy\Debug\Pa.7.exe not found or not built by the last incremental link; performing full link
+  Pa.7.vcxproj -> F:\Cpts 121\Pa.7 - Copy\Debug\Pa.7.exe
+  Pa.7.vcxproj -> F:\Cpts 121\Pa.7 - Copy\Debug\Pa.7.pdb (Full PDB)
